@@ -8,7 +8,7 @@
 ---
 
 ### 👨‍💻 About Me  
-- 🚀 **AI Tech Intern @ [SniperThink](http://agent.sniperthink.com)** – Built a **multi-tenant AI chat & voice agent system** using OpenAI Assistants API, WhatsApp/Instagram APIs, and ElevenLabs.  
+- 🚀 **AI Tech Intern @ [SniperThink](http://WWW.sniperthink.com)** – Built a **multi-tenant AI chat & voice agent system** using OpenAI Assistants API, WhatsApp/Instagram APIs, and ElevenLabs.  
 - 🔬 **ML Engineer Intern @ [WiseWork](https://wisework.in/)** – Developed predictive ML models, optimized feature engineering, and improved accuracy.  
 - 🛠 Created **Time-Travel Debugger** (PyPI), **File Sharing System** (Go + PostgreSQL + S3), and **MCQ Generator** (React + OpenAI API).  
 - 🌱 Currently diving deeper into **AI-driven systems**, **cloud deployments**, and **scalable backend design**.  
@@ -74,9 +74,9 @@
 ### 🤝 Connect With Me  
 
 <div align="center">
-  <a href="http://www.linkedin.com/in/sddhantjaiii"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://www.linkedin.com/in/sddhantjaiii"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
   <a href="https://github.com/sddhantjaiii"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge"/></a>
   <a href="https://leetcode.com/u/sddhantjaiii/"><img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black&style=for-the-badge"/></a>
-  <a href="https://auth.geeksforgeeks.org/user/sddhantjaiii"><img src="https://img.shields.io/badge/GFG-0F9D58?logo=geeksforgeeks&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://www.geeksforgeeks.org/user/sddhantjaiii/"><img src="https://img.shields.io/badge/GeeksForGeeks-0F9D58?logo=geeksforgeeks&logoColor=white&style=for-the-badge"/></a>
   <a href="https://sddhantjaiii.github.io/"><img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white&style=for-the-badge"/></a>
 </div>

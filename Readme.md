@@ -56,7 +56,9 @@
 <img src="https://leetcode-stats.vercel.app/api?username=sddhantjaiii&theme=dark" height="180" />
 
 **GeeksForGeeks**  
-<img src="https://gfg-stats-card.vercel.app/?username=sddhantjaiii&theme=dark" height="180" />
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-185-brightgreen?style=for-the-badge&logo=geeksforgeeks)
+![Coding Score](https://img.shields.io/badge/Coding%20Score-760-blue?style=for-the-badge&logo=geeksforgeeks)
+![POTD Streak](https://img.shields.io/badge/POTD%20Streak-167-orange?style=for-the-badge&logo=geeksforgeeks)
 
 </div>
 

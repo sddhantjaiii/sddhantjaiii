@@ -1,67 +1,82 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="150" />
 </div>
 
-###
+<h1 align="center">👋 Hey, I'm Siddhant Jaiswal</h1>
+<h3 align="center">AI | Machine Learning | Full-Stack Engineering</h3>
+
+---
+
+### 👨‍💻 About Me  
+- 🚀 **AI Tech Intern @ [SniperThink](http://agent.sniperthink.com)** – Built a **multi-tenant AI chat & voice agent system** using OpenAI Assistants API, WhatsApp/Instagram APIs, and ElevenLabs.  
+- 🔬 **ML Engineer Intern @ [WiseWork](https://wisework.in/)** – Developed predictive ML models, optimized feature engineering, and improved accuracy.  
+- 🛠 Created **Time-Travel Debugger** (PyPI), **File Sharing System** (Go + PostgreSQL + S3), and **MCQ Generator** (React + OpenAI API).  
+- 🌱 Currently diving deeper into **AI-driven systems**, **cloud deployments**, and **scalable backend design**.  
+- ⚡ Fun fact: Founder of **LC/NC Community**, coding enthusiast, and LeetCode problem-solver.  
+
+---
+
+### 🛠 Tech Stack  
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  
+**Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7E017?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Frameworks & Tools**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+**Cloud & Deployment**  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
 </div>
 
-###
+---
+
+### 📊 My Stats  
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+
+**GitHub**  
+<img src="https://github-readme-stats.vercel.app/api?username=sddhantjaiii&show_icons=true&theme=tokyonight" height="180" />  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sddhantjaiii&theme=tokyonight" height="180" />  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sddhantjaiii&layout=compact&theme=tokyonight" height="180" />
+
+**LeetCode**  
+<img src="https://leetcode-stats.vercel.app/api?username=sddhantjaiii&theme=dark" height="180" />
+
+**GeeksForGeeks**  
+<img src="https://gfg-stats-card.vercel.app/?username=sddhantjaiii&theme=dark" height="180" />
+
 </div>
 
-###
+---
 
-<h1 align="center">hey there 👋</h1>
+### 🚀 Featured Projects  
 
-###
+- 🔹 **[Agent Platform (SniperThink)](http://agent.sniperthink.com)** – AI multi-tenant chat & voice support agent  
+- 🔹 **[Time Travel Debugger](https://github.com/sddhantjaiii/Time-Travel-debugger)** – Python library on PyPI (`pip install time-travel-debugger`)  
+- 🔹 **[File Sharing & Management System](https://github.com/sddhantjaiii/File_Sharing_and_Management_System)** – Go + PostgreSQL + Redis + React + Docker  
+- 🔹 **[MCQ Generator](https://github.com/sddhantjaiii/MCQ_GENRATOR)** – AI-powered MCQ generator (React + Tailwind + OpenAI API)  
 
-<h3 align="left">👩‍💻  About Me</h3>
+---
 
-###
-
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
+### 🤝 Connect With Me  
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <a href="http://www.linkedin.com/in/sddhantjaiii"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://github.com/sddhantjaiii"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://leetcode.com/u/sddhantjaiii/"><img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black&style=for-the-badge"/></a>
+  <a href="https://auth.geeksforgeeks.org/user/sddhantjaiii"><img src="https://img.shields.io/badge/GFG-0F9D58?logo=geeksforgeeks&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://sddhantjaiii.github.io/"><img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white&style=for-the-badge"/></a>
 </div>
-
-###
